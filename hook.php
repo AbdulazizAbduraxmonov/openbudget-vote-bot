@@ -18,7 +18,7 @@ include 'Telegram.php';
 include 'functions.php';
 
 $tg = new Telegram([
-	'token' => ""
+	'token' => "6134340835:AAETvf_oAoC3iK2HnZWwUZGd8-cdITuqUnw"
 ]);
 
 
